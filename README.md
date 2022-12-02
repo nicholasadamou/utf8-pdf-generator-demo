@@ -20,6 +20,7 @@ A few issues that I found helpful:
 
 * [Issue #230](https://github.com/dhorions/boxable/issues/230)
 * [Issue #153](https://github.com/dhorions/boxable/issues/153)
+* [GNU Unifont Glyphs](https://unifoundry.com/unifont/)
 * [Google Noto Fonts](https://www.google.com/get/noto/)
 * [Arial Unicode MS](https://en.wikipedia.org/wiki/Arial_Unicode_MS)
 * [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
